@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.q{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 500;
+}
+.btn1{
+    text-align: right !important;
+}
